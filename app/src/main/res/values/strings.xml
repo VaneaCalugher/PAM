@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator varsta</string>
+    <string name="date">Selecteaza varsta</string>
+    <string name="age">Calculeaza varsta</string>
+</resources>
